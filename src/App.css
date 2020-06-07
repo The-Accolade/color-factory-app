@@ -1,0 +1,27 @@
+* {
+    list-style-type: none;
+}
+
+.centered {
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  h1 {
+      font-size: 8rem;
+  }
+  .green {
+    background-color: green;
+  }
+  .red {
+      background-color: red;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .page {
+    height: 80vh;
+    margin: 3%;
+  }
+  
